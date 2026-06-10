@@ -42,7 +42,7 @@ End-to-end data cleaning on a raw real estate dataset — handled nulls, duplica
 
 Conducted trend and seasonality analysis on sales data. Built customer segmentation (VIP / Regular / New) using window functions and CASE logic to enable targeted loyalty programs and pricing decisions.
 
-### 🏥 Emergency Room Analytics Dashboard | Advanced Excel + Power Pivot
+### 🏥 Emergency Room Analytics Dashboard | Advanced Excel: Power Query + DAX + Power Pivot Dashboard
 
 Analyzed ER patient wait times using DAX; uncovered peak hours leading to a **12% improvement in staffing efficiency**. Segmented patient satisfaction scores by age group to guide service improvement actions.
 
