@@ -10,11 +10,12 @@
 
 I'm a BI professional passionate about turning complex data into decisions that matter. With over 9 years of experience across research, analytics, and consulting, I specialize in building data pipelines, dashboards, and predictive models that drive measurable business outcomes — from **$500K+ client retention** to **2–3% market share growth**.
 
-When I'm not wrangling data, I'm building portfolio projects that sharpen my SQL, Python, and visualization skills.
+I am continuously expanding my technical toolkit through hands-on projects spanning SQL analytics pipelines, Power BI dashboards, and Python-based analysis.
 
 ---
 
 ## 🛠️ Tech Stack
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -22,29 +23,31 @@ When I'm not wrangling data, I'm building portfolio projects that sharpen my SQL
 ![Alteryx](https://img.shields.io/badge/Alteryx-1F6FCE?style=flat&logo=alteryx&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**Visualization & BI:** Power BI (Certified) · Excel Dashboards(Power Pivot, Power Query, DAX) · Microsoft PowerPoint
+**Visualization & BI:** Power BI (Certified) · Excel Dashboards (Power Pivot, Power Query, DAX) · Microsoft PowerPoint
 
 **Analytics Tools:** Python (Pandas, Seaborn, Matplotlib) · SQL (Nested queries, joins, window functions, CTEs, aggregation, and reporting) · Alteryx
 
-**Technical Skills:** Data Analysis (Statistical Analysis, Predictive Modeling, Market Research) • Business Intelligence (KPI Monitoring, Trend Analysis) • Data Visualization (Report Design, Data Storytelling, Executive Training Presentations) 
+**Technical Skills:** Data Analysis (Statistical Analysis, Predictive Modeling, Market Research) • Business Intelligence (KPI Monitoring, Trend Analysis) • Data Visualization (Report Design, Data Storytelling, Executive Training Presentations)
 
 **Collaboration Platforms:** Microsoft SharePoint · Microsoft Teams
+
+**Ticketing Systems:** Jira · KASE
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏠 Real Estate Data Cleaning | SQL
+### 🛒 Retail Mart Analytics | Advanced SQL + Power BI
+4-phase SQL analytics pipeline (EDA → KPIs → Advanced Analytics → SQL Views) across **17,975 customers, 219 products & $29.3M in revenue** — connected to a 3-page Power BI dashboard tracking customer retention, product performance, and YoY growth. Identified **9,778 one-time buyers** as the top retention opportunity.
 
-End-to-end data cleaning on a raw real estate dataset — handled nulls, duplicates, and inconsistent formats using string functions, data type conversions, and window functions to produce an analysis-ready dataset.
+### 🏠 Tennessee Real Estate Market Analysis | SQL + Power BI
+SQL data pipeline cleaning **56,374 raw property records** — resolved 6 data quality issues including 103 duplicates, null addresses, and inconsistent formats. Built a 2-page Power BI dashboard tracking **$18.4B in total sales** across Tennessee cities and property types (2013–2016).
 
-### 📊 Product Performance & Customer Segmentation | SQL
+### 📊 PwC Power BI Internship | 3 Interactive Dashboards
+Three Power BI dashboards built during the PwC Power BI Internship Program: **Call Centre Performance** (5,000 calls, satisfaction 25% below target), **Customer Churn Analysis** ($1.7M revenue at risk, 26.5% churn rate), and **Diversity & Inclusion** (64.7% of promotions to men, 100% female executive turnover).
 
-Conducted trend and seasonality analysis on sales data. Built customer segmentation (VIP / Regular / New) using window functions and CASE logic to enable targeted loyalty programs and pricing decisions.
-
-### 🏥 Emergency Room Analytics Dashboard | Advanced Excel: Power Query + DAX + Power Pivot Dashboard
-
-Analyzed ER patient wait times using DAX; uncovered peak hours leading to a **12% improvement in staffing efficiency**. Segmented patient satisfaction scores by age group to guide service improvement actions.
+### 🏥 Hospital ER Analytics Dashboard | Advanced Excel
+End-to-end Excel analytics pipeline (Power Query → Power Pivot → DAX → Dashboard) analyzing **9,000+ ER patient records**. Identified that **62% of services were delayed**, peak wait times of 44 minutes at noon, and satisfaction gaps in Cardiology and Gastroenterology.
 
 ---
 
@@ -71,4 +74,3 @@ Analyzed ER patient wait times using DAX; uncovered peak hours leading to a **12
 ## 📫 Let's Connect
 
 I'm always open to discussing data, analytics, and new opportunities. Feel free to reach out via [LinkedIn](http://www.linkedin.com/in/shobhitasohal) or check out my [Portfolio](https://shobhitasohal.carrd.co/)!
-
