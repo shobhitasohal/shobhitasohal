@@ -51,6 +51,10 @@ Three Power BI dashboards built during the PwC Power BI Internship Program: **Ca
 ### 🏥 Hospital ER Analytics Dashboard | Advanced Excel
 End-to-end Excel analytics pipeline (Power Query → Power Pivot → DAX → Dashboard) analyzing **9,000+ ER patient records**. Identified that **62% of services were delayed**, peak wait times of 44 minutes at noon, and satisfaction gaps in Cardiology and Gastroenterology.
 
+### 🏙️ Toronto Short-Term Rental Market Intelligence | SQL + Power BI
+
+End-to-end market intelligence report for a property management startup evaluating entry into Toronto's STR market. Wrote SQL queries in Google BigQuery to answer four business questions across 15,704 listings — demand signals, supply distribution, competitive landscape, and licensing compliance. Built a 2-page Power BI dashboard connected directly via BigQuery connector. Identified high-demand, low-supply entry markets and flagged 43.4% of listings as unlicensed — positioning a compliant operator with a structural competitive advantage.
+
 ---
 
 ## 📈 Career Highlights
