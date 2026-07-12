@@ -22,11 +22,12 @@ I am continuously expanding my technical toolkit through hands-on projects spann
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Alteryx](https://img.shields.io/badge/Alteryx-1F6FCE?style=flat&logo=alteryx&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 
 
 **Visualization & BI:** Power BI (Certified) · Excel Dashboards (Power Pivot, Power Query, DAX) · Microsoft PowerPoint
 
-**Analytics Tools:** Python (Pandas, Seaborn, Matplotlib) · SQL (Nested queries, joins, window functions, CTEs, aggregation, and reporting) · Alteryx
+**Analytics Tools:** Python (Pandas, Seaborn, Matplotlib) · SQL (Nested queries, joins, window functions, CTEs, aggregation, and reporting) · Alteryx · Google Big Query 
 
 **Technical Skills:** Data Analysis (Statistical Analysis, Predictive Modeling, Market Research) • Business Intelligence (KPI Monitoring, Trend Analysis) • Data Visualization (Report Design, Data Storytelling, Executive Training Presentations)
 
