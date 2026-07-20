@@ -60,10 +60,10 @@ End-to-end market intelligence report for a property management startup evaluati
 ## 📈 Career Highlights
 
 - ⚡ Reduced data processing time by **50%** through Excel automation
-- 💼 Delivered BI solution supporting **$500K+ client retention**
+- 💼 Delivered BI solution supporting **$800K+ client retention**
 - 📉 Improved data accuracy by **80%** via validation frameworks
 - 🚀 Drove **20% faster project completions** through streamlined data workflows
-- 📊 Generated insights contributing to **2–3% revenue & market share growth**
+- 📊 Generated insights contributing to **3-5% revenue & market share growth**
 
 ---
 
