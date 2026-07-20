@@ -8,7 +8,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a BI professional passionate about turning complex data into decisions that matter. With over 9 years of experience across research, analytics, and consulting, I specialize in building data pipelines, dashboards, and predictive models that drive measurable business outcomes — from **$500K+ client retention** to **2–3% market share growth**.
+I'm a BI professional passionate about turning complex data into decisions that matter. With over 9 years of experience across research, analytics, and consulting, I specialize in building data pipelines, dashboards, and predictive models that drive measurable business outcomes — from **$800K+ client retention** to **3-5% market share growth**.
 
 I am continuously expanding my technical toolkit through hands-on projects spanning SQL analytics pipelines, Power BI dashboards, and Python-based analysis.
 
